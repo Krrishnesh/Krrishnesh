@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krrishnesh
+- 👋 Hi, I’m @Krishnesh Khalora
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Opensource Projects
